@@ -1,5 +1,6 @@
 # ThunderRight
 A Simple Weather App that shows weather report of any place.
+Website link: https://anjana78gupta.github.io/ThunderRight/
 
 # Features
 1. It shows details like humidity, windspeed and temperature.
